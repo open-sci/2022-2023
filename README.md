@@ -8,6 +8,7 @@ This space contains all the material related to the Open Science course of the [
 - [Open Science](#open-science)
   - [Academic year 2022/2023](#academic-year-20222023)
     - [Table of content](#table-of-content)
+    - [Extras][#extras]
 
 ### Extras
 
