@@ -1,5 +1,5 @@
 
-## Abstract second draft
+## Abstract (second draft)
 <b>currently around 400 words, to cut</b>
 
 * <b>Purpose</b>: In the domain of Social Science and Humanities, citations hold a central role in measuring reliability and interconnectedness of a publication as well as its long term impact. Referencing works that inspired a particular work provide the reader with the possibility of accessing primary sources, hence, enhancing scholarly communication and community evaluation of a research.
