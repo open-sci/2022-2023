@@ -10,5 +10,5 @@ We want to create a connection between these three different datasets for having
 
 <b>Originality/Value</b>: the research conducted by us can be defined as very valuable, since it adds information to existing resources with the aim of facilitating their use and allowing the users to have a clearer view of the data contained in each dataset. Further development can be made, for example analysing other disciplines, to have the same overview as the one created by us but related to other fields.
 
-<b>Keywords</b>: OpenScience, Citation, OC-COCI, OC-Meta, ERIH-PLUS, journals
+<b>Keywords</b>: OpenScience, Citation, OC-COCI, OC-Meta, ERIH-PLUS, Journals
 
