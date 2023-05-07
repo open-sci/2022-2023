@@ -1,8 +1,0 @@
-input_csv:
-  class: File
-  path: ERIH-PLUS.csv
-output_csv: pubid_output.csv
-python_script:
-  class: File
-  path: extract_pubid.py
-
