@@ -40,7 +40,7 @@ Authors' response to the reviews:
 ### Protocol introducing the methodology
 <<Bibliographic reference in APA style of the last version>>
 
-Reviews of the [<<initial version of the protocol>>](<<DOI URL of the initial version of the protocol>>):
+Reviews of the [first-workflow-Playarists V.1](dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v1):
 * Pagnotta, O. (2023). Review of: first-workflow-Playarists v1. Qeios. https://doi.org/10.32388/DNQ9QZ.
 * Soricetti, M. (2023). Review of: first-workflow-Playarists v1. Qeios. https://doi.org/10.32388/HHFGAT.
 
@@ -62,4 +62,4 @@ Authors' response to the reviews:
 
 
 ### Slides supporting the presentation
-<<Bibliographic reference in APA style of the last version>>
+Not available yet
