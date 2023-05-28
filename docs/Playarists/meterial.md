@@ -38,8 +38,9 @@ Authors' response to the reviews:
 
 
 ### Protocol introducing the methodology
-* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Research on ERIH PLUS approved SSH journals present in OpenCitations Meta database V.3. https://www.protocols.io/view/research-on-erih-plus-approved-ssh-journals-presen-cuuawwse 
-Reviews of the [first-workflow-Playarists V.1](dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v1):
+Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Research on ERIH PLUS approved SSH journals present in OpenCitations Meta database V.3. https://www.protocols.io/view/research-on-erih-plus-approved-ssh-journals-presen-cuuawwse
+ 
+Reviews of the [first-workflow-Playarists V.1](https://dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v1):
 * Pagnotta, O. (2023). Review of: first-workflow-Playarists v1. Qeios. https://doi.org/10.32388/DNQ9QZ.
 * Soricetti, M. (2023). Review of: first-workflow-Playarists v1. Qeios. https://doi.org/10.32388/HHFGAT.
 
@@ -57,7 +58,7 @@ Authors' response to the reviews:
 
 
 ### Article presenting the research
-<<Bibliographic reference in APA style of the last version>>
+* Ghiotto, M., Giacomini, S., Ghasempouri, S., Peroni. S. (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta. https://doi.org/10.5281/zenodo.7979806
 
 
 ### Slides supporting the presentation
