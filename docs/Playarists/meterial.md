@@ -1,17 +1,17 @@
 # Material - team <<name of the team>>
 
 ## Members
-[<<Member 1 full name>>](<<GitHub account URL>>), roles:
+[Seyedali Ghasempouri](https://github.com/ghasempouri1984), roles:
 * <<role 1>>, <<description 1>>
 * <<role 2>>, <<description 2>>
 * ...
 
-[<<Member 2 full name>>](<<GitHub account URL>>), roles:
+[Sebastiano Giacomini](<<GitHub account URL>>), roles:
 * <<role 1>>, <<description 1>>
 * <<role 2>>, <<description 2>>
 * ...
 
-[<<Member 3 full name>>](<<GitHub account URL>>), roles:
+[Maddalena Ghiotto](<<GitHub account URL>>), roles:
 * <<role 1>>, <<description 1>>
 * <<role 2>>, <<description 2>>
 * ...
