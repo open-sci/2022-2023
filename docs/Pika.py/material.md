@@ -13,7 +13,7 @@
 [Lorenzo Paolini](https://github.com/Postitisnt), roles:
 * Data Curation, Scrub data for initial use
 * Methodology, Development and design methodology
-* Software, Software development and testing of code
+* Software, Software development
 * Validation, Verification of reproducibility of results
 
 [Marta Soricetti](https://github.com/martasoricetti), roles:
