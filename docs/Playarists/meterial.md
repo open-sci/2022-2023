@@ -1,4 +1,4 @@
-# Material - team <<name of the team>>
+# Material - team Playarists
 
 ## Members
 [Seyedali Ghasempouri](https://github.com/ghasempouri1984), roles:
