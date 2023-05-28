@@ -2,21 +2,21 @@
 
 ## Members
 [Seyedali Ghasempouri](https://github.com/ghasempouri1984), roles:
-* Data Curation, Scrub data for initial use
+* Data Curation, Data preparation and selection of relevant information
 * Methodology, Methodology development
 * Software, Software development
 * Visualization, Graphical representations of output data
 * Writing, Original Draft
 
 [Sebastiano Giacomini](https://github.com/Sebastiano-G), roles:
-* Data Curation, Scrub data for initial use
+* Data Curation, Data preparation and selection of relevant information
 * Methodology, Methodology development
 * Software, Software development
 * Visualization, Graphical representations of output data
 * Validation, Control of requirements fulfillment
 
 [Maddalena Ghiotto](https://github.com/MaddaGh), roles:
-* Data Curation, Scrub data for initial use
+* Data Curation, Data preparation and selection of relevant information
 * Methodology, Methodology development
 * Software, Software development
 * Writing, Original Draft
