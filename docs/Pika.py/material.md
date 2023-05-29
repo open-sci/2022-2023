@@ -71,4 +71,4 @@ Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Ci
 
 
 ### Slides supporting the presentation
-  The slides will be uploaded soon
+Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S. (2023, May 29). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - SLIDES. Zenodo. https://doi.org/10.5281/zenodo.7982990
