@@ -62,4 +62,4 @@ Authors' response to the reviews:
 
 
 ### Slides supporting the presentation
-Not available yet
+* Ghiotto, M., Giacomini, S., Ghasempouri, S., Peroni. S. (2023). Presentation of "Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta.". Zenodo. https://doi.org/10.5281/zenodo.7983027
