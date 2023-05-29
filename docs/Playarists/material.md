@@ -38,7 +38,7 @@ Authors' response to the reviews:
 
 
 ### Protocol introducing the methodology
-Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Research on ERIH PLUS approved SSH journals present in OpenCitations Meta database V.3. https://www.protocols.io/view/research-on-erih-plus-approved-ssh-journals-presen-cuuawwse
+Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Research on ERIH PLUS approved SSH journals present in OpenCitations Meta database V.3. [https://www.protocols.io/view/research-on-erih-plus-approved-ssh-journals-presen-cuuawwse](https://dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v3)
  
 Reviews of the [first-workflow-Playarists V.1](https://dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v1):
 * Pagnotta, O. (2023). Review of: first-workflow-Playarists v1. Qeios. https://doi.org/10.32388/DNQ9QZ.
