@@ -54,7 +54,7 @@ Authors' response to the reviews:
 
 
 ### The data gathered while running the methodology
-* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023) Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta - RESULTS DATASET (Version 0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7979592
+* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta - RESULTS DATASET (Version 0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7979592
 
 
 ### Article presenting the research
