@@ -50,16 +50,16 @@ Authors' response to the reviews:
 
 
 ### Software developed
-* Ghiotto, M., Giacomini, S., Ghasempouri, S., Peroni. S. (2023). open-sci/2022-2023-playarists-code: Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta - RESEARCH SOFTWARE (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7979757 
+* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). open-sci/2022-2023-playarists-code: Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta - RESEARCH SOFTWARE (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7979757 
 
 
 ### The data gathered while running the methodology
-* Ghiotto, M., Giacomini, S., Ghasempouri, S., Peroni. S. (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta - RESULTS DATASET (Version 0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7979592
+* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023) Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta - RESULTS DATASET (Version 0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7979592
 
 
 ### Article presenting the research
-* Ghiotto, M., Giacomini, S., Ghasempouri, S., Peroni. S. (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta. https://doi.org/10.5281/zenodo.7979806
+* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta. https://doi.org/10.5281/zenodo.7979806
 
 
 ### Slides supporting the presentation
-* Ghiotto, M., Giacomini, S., Ghasempouri, S., Peroni. S. (2023). Presentation of "Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta.". Zenodo. https://doi.org/10.5281/zenodo.7983027
+* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Presentation of "Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta.". Zenodo. https://doi.org/10.5281/zenodo.7983027
