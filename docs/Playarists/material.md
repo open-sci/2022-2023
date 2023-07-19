@@ -58,7 +58,7 @@ Authors' response to the reviews:
 
 
 ### Article presenting the research
-* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta. https://doi.org/10.5281/zenodo.7979806
+* Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta. https://doi.org/10.5281/zenodo.7979806
 
 
 ### Slides supporting the presentation
