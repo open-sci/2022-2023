@@ -25,7 +25,7 @@
 ## Material
 
 ### Data Management Plan
-Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). DataManagementPlan - Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta (Version 4). Zenodo. https://doi.org/10.5281/zenodo.8174644
+Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Open Science for Social Science and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta  - DATA MANAGEMENT PLAN (Version 4). Zenodo. https://doi.org/10.5281/zenodo.8174644
 
 Reviews of the [DataManagementPlan_OpenScienceResearch](https://doi.org/10.5281/zenodo.7809055):
 * Paolini, L. (2023). Review of: "DataManagementPlan_OpenScienceResearch". Queios. https://doi.org/10.32388/TBDDN0.
