@@ -10,7 +10,6 @@ are OA.
 
 **Originality:** This research adds to the existing body of knowledge by providing insights into the representation of SSH in open bibliographic databases and the role of open access in this domain. The study highlights the necessity for advocating OA practices within SSH and the significance of open data for bibliometric studies. It further encourages additional research into the impact of OA on various facets of citation patterns and the factors leading to disparity across disciplinary representation. 
 
-**Limitations:** While this study provides valuable insights into the representation of SSH journals in the OpenCitations Meta database, it is limited to the data available on DOAJ. Furthermore, the study does not delve into the specific reasons behind the observed disparities in disciplinary representation or the low percentage of OA journals. It also does not explore the comparison between countries in terms of the kinds of articles.
 
 Keywords: Open Access, Social Science and Humanities, OpenCitations Meta, ERIH-PLUS, DOAJ, scholarly communication, open science, citation
 
