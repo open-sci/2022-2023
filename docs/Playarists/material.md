@@ -38,8 +38,8 @@ Authors' response to the reviews:
 
 
 ### Protocol introducing the methodology
-Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Research on ERIH PLUS approved SSH journals present in OpenCitations Meta database V.4. (https://dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v4)
- 
+Ghiotto, M., Giacomini, S., Ghasempouri, S. (2023). Open Science for Social Sciences and Humanities: Open Access availability and distribution across disciplines and Countries in OpenCitations Meta - PROTOCOL. V.5. (https://dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v5)
+
 Reviews of the [first-workflow-Playarists V.1](https://dx.doi.org/10.17504/protocols.io.5jyl8jo1rg2w/v1):
 * Pagnotta, O. (2023). Review of: first-workflow-Playarists v1. Qeios. https://doi.org/10.32388/DNQ9QZ.
 * Soricetti, M. (2023). Review of: first-workflow-Playarists v1. Qeios. https://doi.org/10.32388/HHFGAT.
