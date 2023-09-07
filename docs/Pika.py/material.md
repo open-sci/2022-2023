@@ -46,7 +46,7 @@ Authors' response to the reviews:
 
 ### Protocol introducing the methodology
 
-Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - Workflow (Version 4). https://doi.org/10.17504/protocols.io.n92ldpeenl5b/v4 
+Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - Workflow (Version 5). https://doi.org/10.17504/protocols.io.n92ldpeenl5b/v5
 
 Reviews of the [Retrieving SSH Journals Citation Information from three datasets (COCI, META and ERIH-PLUS) - Workflow V.1](https://doi.org/10.17504/protocols.io.n92ldpeenl5b/v1):
 
@@ -58,7 +58,7 @@ Authors' response to the reviews:
 
 
 ### Software developed
-Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - SOFTWARE (Version 2). Zenodo. https://doi.org/10.5281/zenodo.8324961
+Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - SOFTWARE (Version 1.1.1). Zenodo. https://zenodo.org/record/8326023
 
 ### The data gathered while running the methodology
 Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - DATA PREPROCESSED (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7973159
@@ -67,7 +67,7 @@ Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Ci
 
 
 ### Article presenting the research
-Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - ARTICLE (Version 2). Zenodo. https://zenodo.org/record/8324989
+Pagnotta, O., Paolini, L., Soricetti, M., & Vellone, S.(2023). Uncovering the Citation Landscape: Exploring OpenCitations COCI, OpenCitations Meta, and ERIH-PLUS in Social Sciences and Humanities Journals - ARTICLE (Version 3). Zenodo. https://zenodo.org/record/8326044
 
 
 ### Slides supporting the presentation
